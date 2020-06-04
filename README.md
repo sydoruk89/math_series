@@ -1,6 +1,6 @@
 ## MATH SERIES
 
-**Author** Roman Sydoruk **Version** 1.0.1
+**Author:** Roman Sydoruk **Version:** 1.0.1
 
 # Description
 
